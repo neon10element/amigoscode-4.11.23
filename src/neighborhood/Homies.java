@@ -6,6 +6,7 @@ public class Homies {
         Amigo.run(Homies.class, args);
         extracted("Yo Bruh, Wuz Up?");
         extracted("How yah feeling?");
+        extracted("What chall doing today?");
     }
 
     private static void extracted(String message) {

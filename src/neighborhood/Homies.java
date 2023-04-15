@@ -7,6 +7,7 @@ public class Homies {
         extracted("Yo Bruh, Wuz Up?");
         extracted("How yah feeling?");
         extracted("What chall doing today?");
+        extracted("What chall doing tomorrow");
     }
 
     private static void extracted(String message) {
